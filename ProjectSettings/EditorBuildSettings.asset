@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Level01_WarmUp.unity
+    guid: c0b17a0bd2d224a4681b1bba0dbb0a48
+  - enabled: 1
+    path: Assets/Scenes/Level02_FirstGuard.unity
+    guid: 909f88154e5414c4ca75ae03708090c8
+  - enabled: 1
+    path: Assets/Scenes/Level03_AgainstTheClock.unity
+    guid: ae7453ca2310dea42ac65704914bd98f
+  - enabled: 1
+    path: Assets/Scenes/Level04_Survive.unity
+    guid: cf3cf37aad3f00944809307eed5402a1
+  - enabled: 1
+    path: Assets/Scenes/Level05_TheGauntlet.unity
+    guid: d5d75283abc30914c80c178e2fac5877
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
